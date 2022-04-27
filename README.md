@@ -36,3 +36,7 @@ We took one of the demo examples and created a simple app in the dataframe-demo.
 Create an account (or login) with streamlit cloud: [Link](https://docs.streamlit.io/streamlit-cloud/get-started)
 
 Set up app to point to the repository and branch.
+
+# Step 5: Update the app and win a competition!
+
+This part is up to you...
