@@ -16,7 +16,7 @@ try:
         "Choose countries from list", list(df.index), ["China", "United States of America"]
     )
     if not countries:
-        st.error("Please select at least one country.")
+        st.error("Please select at least two countries.")
     else:
         data = df.loc[countries]
         data /= 1000000.0
